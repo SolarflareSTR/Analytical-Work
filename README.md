@@ -1,2 +1,2 @@
 # Analytical-Work
-Python Analysis of California Rich Homeownerships.
+Google Colab Analysis of California Rich Homeownerships.
